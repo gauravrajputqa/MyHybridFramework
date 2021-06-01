@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-01T12:55:11Z" name="Default suite" finished-at="2021-06-01T12:55:23Z" duration-ms="12056">
+    <groups>
+    </groups>
+    <test started-at="2021-06-01T12:55:11Z" name="Default test" finished-at="2021-06-01T12:55:23Z" duration-ms="12056">
+      <class name="seleniumPractice.LoginHomePage">
+        <test-method signature="navigate()[pri:0, instance:seleniumPractice.LoginHomePage@3eb81efb]" started-at="2021-06-01T12:55:11Z" name="navigate" finished-at="2021-06-01T12:55:23Z" duration-ms="12033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate -->
+      </class> <!-- seleniumPractice.LoginHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
